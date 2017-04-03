@@ -1,11 +1,15 @@
 //----------------------------------------------------------------------------
-//      _____
-//     *     *
-//    *____   *____
-//   * *===*   *==*
-//  *___*===*___**  AVNET
-//       *======*
-//        *====*
+//
+//       ** **        **          **  ****      **  **********  ********** ®
+//      **   **        **        **   ** **     **  **              **
+//     **     **        **      **    **  **    **  **              **
+//    **       **        **    **     **   **   **  *********       **
+//   **         **        **  **      **    **  **  **              **
+//  **           **        ****       **     ** **  **              **
+// **  .........  **        **        **      ****  **********      **
+//    ...........
+//                                    Reach Further™
+//
 //----------------------------------------------------------------------------
 //
 // This design is the property of Avnet.  Publication of this
@@ -23,7 +27,7 @@
 //    any errors, which may appear in this code, nor does it make a commitment
 //    to update the information contained herein. Avnet, Inc specifically
 //    disclaims any implied warranties of fitness for a particular purpose.
-//                     Copyright(c) 2016 Avnet, Inc.
+//                     Copyright(c) 2017 Avnet, Inc.
 //                             All rights reserved.
 //
 //----------------------------------------------------------------------------
