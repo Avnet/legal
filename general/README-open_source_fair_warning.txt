@@ -1,4 +1,4 @@
-Copyright 2017, Avnet, Inc. All Rights Reserved.
+Copyright 2020, Avnet, Inc. All Rights Reserved.
 
 Table of Contents:
 
@@ -86,14 +86,14 @@ gpl-violations.org project.
 
 TOOL/SOFTWARE VERSIONS:
 
-	- Xilinx Vivado 2014.4 and SDK
-	- Xilinx_Zynq_2014_4_Release - Linux kernel created with PetaLinux
-	  (http://www.wiki.xilinx.com/Zynq+2014.4+Release)
+	- Xilinx Vivado 2019.2 and SDK
+	- Xilinx_Zynq_2019_2_Release - Linux kernel created with PetaLinux
+	  (http://avnet.me/xilinx_zynq_2019_2_release)
 
 DESCRIPTIONS:
 
 	- Linux kernel, ramdisk, boot.elf, devicetree are from the ZedBoard 
-	  files found in the Xilinx_Zynq_2014_4_Release archive (created with 
+	  files found in the Xilinx_Zynq_2019_2_Release archive (created with 
 	  PetaLinux)
 
 	- ZedBoard devicetree is modified as follows:

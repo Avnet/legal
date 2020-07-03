@@ -13,15 +13,19 @@ I am an engineer, what is all of this stuff?
 
 * Feel free to browse through it, but be careful... it's pretty boring stuff.
 
-* Try one of the other repos for all the really good technical material.
+* Try accessing one of the other repos for all the really good technical material.
 
 
 I am an engineer at Avnet, why was I sent here?
 -----------------------------------------------
 
-* If you are writing 100% new code for Avnet Reference Designs/Tutorials, be sure to append the appropriate disclaimer headers (from this repo) to the top of your source files.
+* If you are modifying existing code that belongs to someone else (especially Open Source License software), then stop right here.  You are in the wrong place, these are not the files that you want.  You need to abide by the existing license agreement (or contact the owner/maintainer of the source code) in order to understand what code changes can legally be made.
 
-* If you are modifying existing code that belongs to someone else (especially open source), then stop right here.  You are in the wrong place, these are not the files that you want.  You need to abide by the existing license agreement (or contact the owner/maintainer of the source code) in order to understand what code changes can legally be made.
+* If you are writing new application code that can be published under an Open Source License, be sure to use an appropriate Open Source License for your code.  Some community recommended licenses that are "popular and widely-used or with strong communities" can be found here:
+
+[Open Source Licenses by Category](https://opensource.org/licenses/category)
+
+* If you are writing 100% new code for Avnet Reference Designs/Tutorials that does not fit under an Open Source Software License, be sure to append the appropriate disclaimer headers (from this repo) to the top of your source files.
 
 * Please contact the Avnet Design Group for further information.
 
